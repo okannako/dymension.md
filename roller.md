@@ -24,5 +24,16 @@ roller config init --interactive
   - Celestia
   - EVM
 
+- Bize verdiği adresler cüzdan adreslerimiz ve buna Discor'dan test tokenı almamız lazım >> https://discord.gg/dymension
+```
+Sequencer <network> | Address used to publish state updates to the Dymension Hub
+Relayer   <network> | Address that handles the relaying of IBC packets
+DA        <network> | Address used to publish data on-chain to the DA network
+```
 
+- Test tokenlarını ilk iki adres için devnet-faucetten Celestia için celestia-faucetten alıyorsunuz. Alırken ```$request dym15a....``` ve ```$request celestia1``` şeklinde yazıp istemelisiniz. Bir süre sonra ```$balance  cüzdanadresi``` yazarak token gelip gelmediğini kontrol edebilirsiniz.
+
+- Roller kayıt için şu kodu girmeniz yeterli ```roller register``` ve size şuna benzer bir çıktı vermeli ```💈 Rollapp '<rollapp-id>' has been successfully registered on the hub.```
+
+- Ve Artık son adım olan Roller çalıştırmaya geçebiliriz. Şu kodla ```roller run``` Roller çalıştıktan sonra aşağıdaki gibi bir çıktı vermeli.
 
