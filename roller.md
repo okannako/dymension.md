@@ -9,7 +9,11 @@
 
 ## Yükleme ve Çalıştırma
 
-- İlk olarak aşağıdaki kod ile Roller'ı yükleyip daha sonra versiyon kontrolü yapıyoruz.
+- Tmux ekranı açtıktan sonra ilk olarak aşağıdaki kod ile Roller'ı yükleyip daha sonra versiyon kontrolü yapıyoruz.
+```cd
+ sudo apt install tmux
+ tmux new -s dymroller
+```
 ```
 curl -L https://github.com/dymensionxyz/roller/releases/download/v0.1.2/install.sh | bash
 ```
