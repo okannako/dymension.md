@@ -38,7 +38,7 @@ Relayer   <network> | Address that handles the relaying of IBC packets
 DA        <network> | Address used to publish data on-chain to the DA network
 ```
 
-- Test tokenlarını ilk iki adres için devnet-faucetten Celestia için celestia-faucetten alıyorsunuz. Alırken ```$request dym15a....``` ve ```$request celestia1``` şeklinde yazıp istemelisiniz. Bir süre sonra ```$balance  cüzdanadresi``` yazarak token gelip gelmediğini kontrol edebilirsiniz.
+- Test tokenlarını ilk iki adres için devnet-faucetten Celestia için celestia-faucetten alıyorsunuz. Alırken ```$request dym15a....``` ve ```$request celestia1``` şeklinde yazıp istemelisiniz. Bir süre sonra ```$balance cüzdanadresi``` yazarak token gelip gelmediğini kontrol edebilirsiniz.
 
 - Roller kayıt için şu kodu girmeniz yeterli ```roller register``` ve size şuna benzer bir çıktı vermeli ```💈 Rollapp '<rollapp-id>' has been successfully registered on the hub.```
 
