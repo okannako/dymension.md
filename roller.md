@@ -66,9 +66,13 @@ rollapp_evm tx ibc-transfer transfer transfer channel-0 dym12ad4lux36lta7d75v2w6
 
 ## KEY Yedeklemek
 
-- Arkadaşlar geldik en önemli işleme, bu işlem ile oluşan keylerimizin yedeğini alıp bilgisayar vs. bir yerde kesinlikle saklıyoruz. İlk kod keylerimizi gösterir, ikinci, üçüncü ve dördüncü kodlarda yedeği almamızı sağlıyor. ÖNEMLİ!!
+- Arkadaşlar geldik en önemli işleme, bu işlem ile oluşan keylerimizin yedeğini alıp bilgisayar vs. bir yerde kesinlikle saklıyoruz. İlk kod keylerimizi gösterir, 2 3 4 ve 5. kodlarda yedeği almamızı sağlıyor. ÖNEMLİ!!
  ```roller keys list```
  ```roller keys export hub_sequencer```
+ ```roller keys export rollapp_sequencer```
+ ```roller keys export my_celes_key```
+ ```roller keys export relayer-hub-key```
+ ```roller keys export relayer-rollapp-key```
 
 NOT: Develop işlemleride var onları yapmayacağım şimdilik ama uğraşmak isterseniz linkini aşağıya bırakıyorum. Kolay gelsin.
  - https://docs.dymension.xyz/build/quick-start/evm/connect
