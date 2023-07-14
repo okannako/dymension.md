@@ -44,7 +44,6 @@ DA        <network> | Address used to publish data on-chain to the DA network
 
 - Ve Artık son adım olan Roller çalıştırmaya geçebiliriz. Şu kodla ```roller run``` Roller çalıştıktan sonra aşağıdaki gibi bir çıktılar vermeli. İlk resim başlattığınız andaki durum ikinci resim ise belirli bir süre sonunda kanal açıldıktan sonraki çıktı. İkinci resimdeki gibi bir çıktı vermeden işlemlere devam etmeyin.
 ![1](https://github.com/okannako/dymension.md/assets/73176377/56c2858b-1fda-45f2-af46-162cf8384e4b)
-
 ![2](https://github.com/okannako/dymension.md/assets/73176377/c824b096-fd5c-485a-b4ee-e77531c6e17b)
 
 - Tabloda bulunan değerlerin ne demek olduğunu aşağıda bulabilirsiniz
