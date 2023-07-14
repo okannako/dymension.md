@@ -1,5 +1,5 @@
 
-- Ödüllü testnet öncesi Roller çalıştırma işlemini nasıl yapacağımıza dair yeni kılavuzlar yayınladı. O kılavuzlardan yararlanarak tek bir yerde, baştan sona işlemleri nasıl yapacağınıza dair bütün adımları bu kılavuz ve video ile kolay hale getirmeye çalıştım. Kolay gelsin.
+- Ödüllü testnet öncesi Roller çalıştırma işlemini nasıl yapacağımıza dair yeni kılavuzlar yayınladı. O kılavuzlardan yararlanarak tek bir yerde, baştan sona işlemleri nasıl yapacağınıza dair bütün adımları bu kılavuz ve video ile kolay hale getirmeye çalıştım. Mutlaka VİDEO ile birlikte işlemleri gerçekleştirin. Kolay gelsin.
 
 ## Tavsiye Edilen Sistem Gereksinimleri
 - CPU: Dual Core
@@ -65,6 +65,8 @@ rollapp_evm tx ibc-transfer transfer transfer channel-0 dym12ad4lux36lta7d75v2w6
 - Belirli bir süre sonra Discord'da devnet-faucet kanalından aşağıdaki kodla tokenınızın adreste olup olmadığına bakabiliyorsunuz ve varsa talep edebiliyorsunuz. İlk kod adreste token olup olmadığını sorgulamayı gerçekleştiriyor. İkinci kod ike adresinize talep edebiliyorsunuz. <rollapp-id>'yi silip kendi belirlediğimiz id'yi giriyoruz. 
  - ```$balances dym12ad4lux36lta7d75v2w6je2y386y9s5xp658pz <rollapp-id>```
  - ```$request <user-address> <rollapp-id>```
+
+- Explorer >>> https://explorer.silknodes.io/dymension-devnet
 
 ## KEY Yedeklemek
 
