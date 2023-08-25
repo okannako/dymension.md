@@ -61,7 +61,7 @@ Log file path: is the PATH to the RollApp logs
 ```
 rollapp_evm tx ibc-transfer transfer transfer channel-0 dym1g8sf7w4cz5gtupa6y62h3q6a4gjv37pgefnpt5 5000000000000000000000000<base-denom> --from rollapp_sequencer --keyring-backend test --home ~/.roller/rollapp --broadcast-mode block
 ```
-- Belirli bir süre sonra Discord'da devnet-faucet kanalından aşağıdaki kodla tokenınızın adreste olup olmadığına bakabiliyorsunuz ve varsa talep edebiliyorsunuz. İlk kod adreste token olup olmadığını sorgulamayı gerçekleştiriyor. İkinci kod ike adresinize talep edebiliyorsunuz. <rollapp-id>'yi silip kendi belirlediğimiz id'yi giriyoruz. 
+- Belirli bir süre sonra Discord'da froopyland-faucet kanalından aşağıdaki kodla tokenınızın adreste olup olmadığına bakabiliyorsunuz ve varsa talep edebiliyorsunuz. İlk kod adreste token olup olmadığını sorgulamayı gerçekleştiriyor. İkinci kod ike adresinize talep edebiliyorsunuz. <rollapp-id>'yi silip kendi belirlediğimiz id'yi giriyoruz. 
  - ```$balances dym12ad4lux36lta7d75v2w6je2y386y9s5xp658pz <rollapp-id>```
  - ```$request <user-address> <rollapp-id>```
 
