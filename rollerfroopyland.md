@@ -70,9 +70,9 @@ rollapp_evm tx ibc-transfer transfer transfer channel-0 dym1g8sf7w4cz5gtupa6y62h
 ## KEY Yedeklemek
 
 - Arkadaşlar geldik en önemli işleme, bu işlem ile oluşan keylerimizin yedeğini alıp bilgisayar vs. bir yerde kesinlikle saklıyoruz. İlk kod keylerimizi gösterir, 2 3 ve 4. kodlarda yedeği almamızı sağlıyor. Ayrıca Winscp ile bağlanıo .roller klasörünü de taşıma ya da çökmelere önlem için yedeklemeniz iyi olacaktır. ÖNEMLİ!!
- ```roller keys list```
- ```roller keys export hub_sequencer```
- ```roller keys export rollapp_sequencer```
- ```roller keys export my_celes_key```
+- ```roller keys list```
+- ```roller keys export hub_sequencer```
+- ```roller keys export rollapp_sequencer```
+- ```roller keys export my_celes_key```
 
 - Fork ve Yıldız için Teşekkürler.
