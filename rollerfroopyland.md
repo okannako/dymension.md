@@ -4,7 +4,7 @@
 - CPU: Dual Core
 - RAM: 16GB+
 - SSD: 500GB+
-- İşletim Sistemi: Ubuntu 22.04LTS
+- İşletim Sistemi: Ubuntu 20.04LTS
 
 ## Yükleme ve Çalıştırma
 
