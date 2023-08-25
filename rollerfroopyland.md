@@ -16,7 +16,7 @@
 ```
 curl -L https://dymensionxyz.github.io/roller/install.sh | bash
 ```
-```roller version```
+- ```roller version``` kodu ile versiyon kontrolü yapıyoruz.
 
 - Şimdi init işlemi yapacağız yani oluşturacağımız Rollap ile ilgili ayarmalar gerçekleştireceğiz. İlk Olarak aşağıdaki kodu girince bize seçim için bir ekran çıkartacak. 
 ```
