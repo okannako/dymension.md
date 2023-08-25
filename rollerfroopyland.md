@@ -1,4 +1,4 @@
-- Ödüllü testnet öncesi Roller çalıştırma işlemini nasıl yapacağımıza dair yeni kılavuzlar yayınladı. O kılavuzlardan yararlanarak tek bir yerde, baştan sona işlemleri nasıl yapacağınıza dair bütün adımları bu kılavuz ve video ile kolay hale getirmeye çalıştım. Mutlaka VİDEO ile birlikte işlemleri gerçekleştirin. Kolay gelsin.
+- Ödüllü testnet için Roller çalıştırma işlemini nasıl yapacağımıza dair yeni kılavuzlar yayınladı. O kılavuzlardan yararlanarak tek bir yerde, baştan sona işlemleri nasıl yapacağınıza dair bütün adımları bu kılavuz ve video ile kolay hale getirmeye çalıştım. Mutlaka VİDEO ile birlikte işlemleri gerçekleştirin. Kolay gelsin.
 
 ## Tavsiye Edilen Sistem Gereksinimleri
 - CPU: Dual Core
