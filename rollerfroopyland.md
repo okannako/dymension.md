@@ -65,6 +65,7 @@ rollapp_evm tx ibc-transfer transfer transfer channel-0 dym1g8sf7w4cz5gtupa6y62h
  - ```$balances dym1g8sf7w4cz5gtupa6y62h3q6a4gjv37pgefnpt5 <rollapp-id>```
  - ```$request <user-address> <rollapp-id>```
 
+- RollApp Form >>> https://dymension.typeform.com/RollAppListing
 - Explorer >>> https://explorer.silknodes.io/dymension
 
 ## KEY Yedeklemek
